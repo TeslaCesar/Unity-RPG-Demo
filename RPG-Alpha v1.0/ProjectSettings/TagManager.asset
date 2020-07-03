@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Animales
+  - Skeletons
+  - Hechiceros
+  - Gemas
   layers:
   - Default
   - TransparentFX
@@ -13,14 +17,14 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Jugador
+  - Enemigo1
+  - Demonio
+  - Animales
+  - Enemigo2
+  - Enemigo3
+  - Enemigo4
+  - Enemigo5
   - 
   - 
   - 
